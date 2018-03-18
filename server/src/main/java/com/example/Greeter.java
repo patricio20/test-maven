@@ -12,11 +12,7 @@ public class Greeter {
 
   }
 
-  /**
-  * Función que permite saludar.
-  * @param someone es el nombre de la persona.
-  * @return saludo.
-  */
+  //TODO: Add javadoc comment
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
   }
