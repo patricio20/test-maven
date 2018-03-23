@@ -1,1 +1,1 @@
-Hello, Jenkins NK!
+Hello, Jenkins!
